@@ -1,6 +1,6 @@
 # Dirt Bike Fix
 
-`Attention!!!:` Версия совсем сырая, т.к. собрана за считанные дни. В дальнейшем будет обрастать фичами.
+`ВНИМАНИЕ!!!`: Версия совсем сырая, т.к. собрана за пару дней. В дальнейшем будет обрастать фичами.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=style-flat&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=style-flat&logo=django&logoColor=white)
@@ -31,17 +31,18 @@ Dirt Bike Fix - это информационный портал, содержа
 - [Django](https://www.djangoproject.com/download/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [Redis](https://redis.io/downloads/)
+
 - [Bootstrap](https://getbootstrap.com/)
 
 ## Скриншоты:
-![Главная]()
+![Главная](https://github.com/user-attachments/assets/ea071901-542d-4c01-a3f4-22e3766ac94d)
 •••
-![Страница модели]()
+![Страница модели](https://github.com/user-attachments/assets/a13c0b2a-45b1-4885-a9a2-aa80881d50d3)
 •••
-![Страница брендов в админке]()
+![Страница брендов в админке](https://github.com/user-attachments/assets/aa024ae2-76f5-4087-97e9-061d4b73c724)
 •••
-![Страница мануалов в админке]()
+![Страница мануалов в админке](https://github.com/user-attachments/assets/34c97867-a8b3-4c3c-bcc3-96ed6bccc547)
 •••
-![Страница добавления бренда]()
+![Страница добавления бренда](https://github.com/user-attachments/assets/c7146c73-8ce8-43a7-8087-556c5d3344ba)
 •••
-![Страница добавления мануала]()
+![Страница добавления мануала](https://github.com/user-attachments/assets/e559fc5e-d39e-41dc-a2c0-5bd9fa5e8ac8)
