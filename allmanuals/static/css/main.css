@@ -1,0 +1,22 @@
+/*a:hover img {
+    opacity: 0.8;
+}
+
+/*a:hover img {
+    transform: scale(0.99);
+}*/
+
+a {
+    text-decoration: none;
+    /*color: gray;*/
+}
+
+body {
+    background-color: #EEEEEE; /* Светло-серый */
+    /*background-color: #444; /* Светло-серый */
+    /*background-color: #999; /* Светло-серый */
+    }
+
+img {
+  border: 1px solid #000000; /* Толщина 2px, сплошной стиль, черный цвет */
+}
